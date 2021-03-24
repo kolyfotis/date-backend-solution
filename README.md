@@ -29,6 +29,8 @@
 ## Installation
 
 ```bash
+$ git clone https://github.com/kolyfotis/date-backend-solution.git
+$ cd date-backend-solution
 $ npm install
 ```
 
